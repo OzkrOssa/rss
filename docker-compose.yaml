@@ -1,0 +1,12 @@
+version: '3'
+services:
+  rss:
+    build: .
+    image: rss
+    container_name: rss
+    restart: on-failure
+    environment:
+      MIKROTIK_API_USER: ${MIKROTIK_API_USER}
+      MIKROTIK_API_PASSWORD: ${MIKROTIK_API_PASSWORD}
+      API_SAEPLUS_BASE_URL: ${API_SAEPLUS_BASE_URL}
+      API_SAEPLUS_TOKEN: ${API_SAEPLUS_TOKEN}

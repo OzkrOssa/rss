@@ -1,0 +1,10 @@
+github.com/OzkrOssa/mikrotik-go v0.0.0-20230907212325-bd4b37b6cc1a h1:lqfScxJOgYyEOdiYj1H2SY3tF4s/Hgu6nhmIqwqKZNY=
+github.com/OzkrOssa/mikrotik-go v0.0.0-20230907212325-bd4b37b6cc1a/go.mod h1:ScRnqFmS5fvRFCadxrIgTYk1VdPL6y5VMn5JDn2gZRg=
+github.com/robfig/cron/v3 v3.0.1 h1:WdRxkvbJztn8LMz/QEvLN5sBU+xKpSqwwUO1Pjr4qDs=
+github.com/robfig/cron/v3 v3.0.1/go.mod h1:eQICP3HwyT7UooqI/z+Ov+PtYAWygg1TEWWzGIFLtro=
+gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405 h1:yhCVgyC4o1eVCa2tZl7eS0r+SDo693bJlVdllGtEeKM=
+gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405/go.mod h1:Co6ibVJAznAaIkqp8huTwlJQCZ016jof/cbN4VW5Yz0=
+gopkg.in/routeros.v2 v2.0.0-20190905230420-1bbf141cdd91 h1:RqTijcxlh3kwSEx4M1YfVoIBgA6rFO632PIOIjXAbz4=
+gopkg.in/routeros.v2 v2.0.0-20190905230420-1bbf141cdd91/go.mod h1:dXYL5YdVb9GEWLoWK8VHdwL/SuFrNyb/hj2/CXZVT7E=
+gopkg.in/yaml.v3 v3.0.1 h1:fxVm/GzAzEWqLHuvctI91KS9hhNmmWOoWu0XTYJS7CA=
+gopkg.in/yaml.v3 v3.0.1/go.mod h1:K4uyk7z7BCEPqu6E+C64Yfv1cQ7kz7rIZviUmN+EgEM=
