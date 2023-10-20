@@ -10,15 +10,15 @@ import (
 	"github.com/OzkrOssa/mikrotik-go"
 	"github.com/OzkrOssa/rss/config"
 	"github.com/OzkrOssa/rss/services"
+	"github.com/robfig/cron/v3"
 )
 
 func main() {
-	// c := cron.New()
-	// c.AddFunc("*/5 7-18 * * 1-6", start)
-	// c.Start()
+	c := cron.New()
+	c.AddFunc("*/5 7-18 * * *", start)
+	c.Start()
 
-	// select {}
-	start()
+	select {}
 }
 func start() {
 	t := time.Now()
